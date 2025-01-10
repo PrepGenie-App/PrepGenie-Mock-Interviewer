@@ -11,7 +11,6 @@ import gtts
 from streamlit.components.v1 import html
 import time
 
-# GOOGLE_API_KEY
 from dotenv import load_dotenv
 load_dotenv()
 # no wide mode
